@@ -1,0 +1,13 @@
+.lead,
+h1 {
+    text-wrap: balance;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+
+#categories img {
+    height: 200px;
+}
